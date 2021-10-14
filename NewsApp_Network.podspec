@@ -12,9 +12,9 @@ s.license = { :type => "MIT", :file => "LICENSE" }
  
 s.author = { "Ignatio Julian" => "ignatiojulian@gmail.com" }
  
-s.homepage = "https://github.com/ignatiojulian/dicoding3-expert"
+s.homepage = "https://github.com/ignatiojulian/Ignatio-Dicoding-Network"
  
-s.source = { :git => "https://github.com/ignatiojulian/dicoding3-expert.git", 
+s.source = { :git => "https://github.com/ignatiojulian/Ignatio-Dicoding-Network.git", 
 :tag => "#{s.version}" }
  
 s.framework = "UIKit"
